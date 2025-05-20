@@ -1,0 +1,5 @@
+https://www.gencodegenes.org/human/release_42.html
+
+gencode.v42.annotation.gff3
+gencode.v42.lncRNA_transcripts.fa
+gencode.v42.pc_transcripts.fa
