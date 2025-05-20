@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/20353978/README.md)
 # Code and data for  lncRNA subcellular localization paper
 
 # <font color="blue"> Part1 Dataset</font>
